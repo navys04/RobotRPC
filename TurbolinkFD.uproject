@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TurbolinkFD",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"PS5",
+		"Android",
+		"IOS",
+		"LinuxNoEditor",
+		"WindowsNoEditor",
+		"AllDesktop"
+	]
+}
